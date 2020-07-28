@@ -1,10 +1,15 @@
 # NWpasta
 
-so you wanna be sure that everyone knows what to do in any given group content.
+text and help for Neverwinter dungeons
 
-## [Trials](https://github.com/DPBofficial/NWpasta/blob/master/Trials%20Pasta.md)
+this version has 2 files, that gives you short text snippets that you can paste into chat during a dungeon, so everyone knows what they're doing!
 
-## [Epic Dungeons](https://github.com/DPBofficial/NWpasta/blob/master/Epic%20Dungeons%20Pasta.md)
+I've also added a file giving basic instructions for more complex dungeons (LOMM etc), just so you have an idea what to do if you've not run them before. Acknowledgements to anybody who's notes I've copied! (mostly from reddit)
+
+
+## [Trials](https://github.com/morvan68/NWpasta/blob/master/Trials%20Pasta.md)
+
+## [Epic Dungeons](https://github.com/morvan68/NWpasta/blob/master/Epic%20Dungeons%20Pasta.md)
 
 ### **you can triple click any word in the copy-paste line to select that whole line.**
 

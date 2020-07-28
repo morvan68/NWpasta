@@ -7,7 +7,7 @@ one tank and one healer on demogorgon, everyone else open purple portals only, d
 ```
 phase two
 ```
-aim the boss at yellow portals only, or even better just keep him at the enterance.
+aim the boss at yellow portals only, or even better just keep him at the entrance. Not at black portals!
 ```
 phase three
 ```
@@ -19,7 +19,7 @@ drag the boss to the entrance, we can clear debuffs at the permanent blue circle
 
 start
 ```
-be sure to grab enough green and a couple white gems, do a "g" or "w" in chat for estimates.
+be sure to grab enough green and red gems, do a "g" or "r" in chat for estimates.
 ```
 protect
 ```
@@ -27,11 +27,15 @@ please keep the enemies off the clerics.
 ```
 heads
 ```
-start at black head, leave them at 4 bars of health unless we need less than 45 seconds to kill a single head.
+start at black head, leave them at 20% health.
+```
+2nd run
+```
+start at white head and finish them off
 ```
 deaths
 ```
-if you die, just release and mount up to get back in the fight faster. the group cannot afford anyone taking time off their job to get you up.
+If you die, dont ask for help. Just release and mount up, its faster  and avoids revive sickness. the group cannot afford anyone taking time off to get you up.
 ```
 
 # **Assault on Svardborg**
@@ -39,11 +43,13 @@ if you die, just release and mount up to get back in the fight faster. the group
 
 phase one
 ```
-kill until we're at 100%, then hide behind big pillars to the left and right of the throne. free people from ice as fast as possible.
+try to stay together in centre for healing. Free people from ice as fast as possible.
+At 100%, hide behind big pillars to the left and right of the throne.
 ```
 phase two
 ```
-focus on one enemy at the time, once we kill them go to the middle of the arena and stay in the bubble.
+focus on one manticore at the time, once we kill them go to the middle of the arena and stay in the bubble.
+Healers switch to cleanse for poison
 ```
 
 # **Cradle of the Death God**
@@ -51,14 +57,17 @@ focus on one enemy at the time, once we kill them go to the middle of the arena 
 
 head
 ```
-whoever gets skull attached to them move in front of the floating head, once the skull is in the center attack it directly from behind.
+Do not kill skulls.
+take skulls to side with floating head, once the skull is in the center attack it directly from behind to push it into head.
 ```
 gears
 ```
-do not use aoe in the middle, bring cubes to corners before killing them.
+do not kill cubes. they are fragile, no aoe in the middle.
+bring cubes to corners before killing them.
 ```
 tethers
 ```
+try to stay together, kill chords.
 make sure everyone is alive before killing the last cord.
 ```
 baby
@@ -83,5 +92,5 @@ on the way
 
 pass on the knowledge
 ```
-anyone wanting content guides can search for NWpasta for copy-paste guides.
+anyone wanting content guides can search for github NWpasta for guides.
 ```

@@ -1,0 +1,151 @@
+to9g
+----
+initally, choose passage with face on wall
+
+1st puzzle: pattern on floor in centre, find matching one on coffins in each corner
+pre-orcus: 3 items to symbols to click on. triangle gives temp hit point->tank,
+					middle cross gives undead->aoe dps
+					right orcus single target->top dps
+orcus: avoid the balls, which are instakill. Boosted tank must block them.
+downstairs to puzzle
+dino pit, downstairs, puzzle.
+2nd boss weather control station
+some ads,
+room before boss: make sure companions are non-agressive.
+
+final boss is ras nsi. He will charge his soulmonger, if it gets full its a wipe.
+Specific cirular attack to call souls, to charge soulmonger. take out souls asap.
+if ghost appears, need to be far side of platform to not get pushed off.
+'i will strike you dead' - get to centre, drop heals
+
+puzzle rooms:
+- 3 mimics, basically shell game, follow light between 3 chests.
+- interact with 6 objects in order, using log screen to see if right/wrong.
+- drink potions, others tell you what colour, you go to correct pedastal
+
+
+temple spider master
+---
+final boss:
+red beam hurts, block with boss or dodge. The player that’s being targeted has to run away from the group and dodge that thing or another player has to dodge/block/intercept the beam for the target.
+blue beam heals boss, block it.
+kill all the adds asap
+
+
+fangbreaker island
+---
+1st boss has avalanche roar - run towards same hill he is on
+On ice, hit/knock explosive runes before they fire
+2nd boss, turtle. To avoid steam cannon, hit him with explosive rune when he rears up from water
+3rd, drufi.
+dodge the permafrost pillars, leave any empty ones
+Call of Winter - Drufi will run to the center of the arena along the waterfront, here she will begin channeling rune magic. hide behind permafrost pillars
+hypothermia - person targeted because there is a huge arrow. group them and share damage.
+
+
+spellplague caverns master
+----
+3 bosses
+kabal - chains 2 players: get chain in a balls to melt it. 3 cycles. if linked to a ball, pull it into kabal.
+nothic - The boss will frequently spawn a pulsating AoE, jump to the area and initiate a massive push. Players have to position themselves at the edge of the red AoE warn area that has the most distance to the end of the platform. use dodge. avoid gaze, use mirrors to reflect gaze.
+nostura - 'be still' pre-gaze attack. Under 25% she spawns five Planar Tears and five Portals again. The group has to DPS down the tears and every players needs to enter a portal to prevent getting one-shotted by the ensuing nuke.
+
+grey wolf den master
+---
+final boss will swap from human (killable) to werewolf (invunerable)
+kill small red wolf next to her to make her human
+
+
+cragmire crypts master
+---
+basically same as normal, but harder
+
+
+valindra tower
+---
+all routine except valindra:
+start by using at will/enc, save dailies
+at about 75%, she says 'come forth my minons'. coffins appear, you need to destroy them quick. can interact with them, not necessary to do damage. If any wights hatch from them, use daily to finish them off. if any are left you will get swamped eventially.
+back to valinda, full power attack.
+she will say 'you will die'. Get to edge of area, and dodge round avoiding red sectors.
+then back to killing.
+repeat wights and red sectors, 
+when she's below 20% or so, best seems to ignore wights and just kill her as quick as poss.
+
+lair of lostmauth
+---
+lostmauth - huddle in centre at 50%, area floods. stand at corners of central pentagon to avoid falling rocks
+
+
+castle ravenloft
+---
+sisters - 1 dps keep the busy with book, using X and X
+arcolith - dps attack from behind
+Strahd - 
+stick together
+kidnap phase - one down below, stay alive. rest above, kill doppelgangers.
+taunts one player saying “Come then”, don't hit him.
+Rondo of the Night: He performs this at 25% HP. Everyone is raised onto a large floating platform, where you then need to use the daily power of the Sunsword, Sundrenched Aegis. You should wait until the sword states “Now, raise me to the heavens” before casting the daily. To make sure the length of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
+
+
+LOMM
+---
+Arcturia - 
+    Butterfly cloud keeps you from using powers; stay out of it.
+    Thorns hit 3 times, tank should block at least 2 of them.
+    At 80% mimic phase starts. Tank/Heal go to the green corner. Strongest DPS goes to yellow. Place the other DPS at blue/purple. After the Tank/Heal kill their 1st mimic, they should go help the blue/purple DPS kill their mimics. If the yellow DPS is ranged they can help blue/purple in the delay they have from killing their first till their second spawns. If one of the DPS just can't kill a mimic, have then run with the tank/heal instead. Once 6 mimics are dead the phase ends. (We run lots of barely 20K guild/alliance with us, so we've learned these tricks to manage the fight.)
+    Mimic phase repeats every 60 seconds after the first, plus at 50%.
+    After each mimic phase a non-healer will be pulled to her feet and cocooned (helpless, dropped to 20% health). The healer has about 5 seconds to get them healed to full. Then the cocoon explodes; if the victim was not 100% they are permadead, as well as anyone caught in the blast.
+    Any golems that spawned during mimic phase should be tanked to keep them off the healer and ignored by the DPS.
+    After the 50% mimic phase she will scream, signalling the end of the mimic phases (unless she bugs out).
+    After 50% she will use a few abilities--screams cause random warriors to AOE the floor, avoid it. Eyeball will do a long stun to anyone facing her--look away. She will still cocoon people sometimes, heal/avoid normally. An AOE arrow will land on someone, group up to share the damage.
+
+Bore Worm -
+    For the first 10% or so, just kill the worm. The worm attacks random targets regardless of aggro.
+    When the worm spins you can block/dodge it. If you stand too far away the worm will knock you towards it.
+    At around 90% the worm will sink into the ground and cause shifting sands. If you get pulled into the center you will perma-die.
+    Boulders will spawn near each player. single hit to destroy, so use fast/dash at-wills to kill them. Every boulder that reaches the center makes the coming charge phase last longer.
+    After the sands stop everyone must gather at the stairs and cluster around the player with arrows on them to share the AOE hit. Just stand still while the healer keeps you alive, don't try to avoid the red AOE that knocks you down, stay clustered.
+    The healer usually stands outside the red AOE and heals the group, unless they get arrows on themselves. If someone does die, the only way to rez them is for one person without arrows to rez them while the person with the arrows moves away with the other two players, otherwise the knockdown will interrupt you.
+    When the worm sinks back into the ground, the charge phase is over, and you can resume killing the worm. Around 40% health the worm will sink down and start another shifting sands.
+    Kill boulders without getting pulled into the center again. The tank should try to aggro as many golems as they can now. After the sands stop shifting it's time to gather at the stairs again.
+    The tank should try to keep the golems aggro, and wedge themselves into the corner of the stairs so you don't get knocked around like crazy. Otherwise stay clustered up and get healed normally.
+    After the worm sinks again the phase is over--resume killing the worm--do not kill the golems. When the worm twirls it will kill any golems nearby, making the worm take more damage. More importantly, if the worm twirls twice without killing a golem, you will get a new boulder phase with more golems. (Note if your damage is good enough, you can kill the golems and kill the worm before it triggers another boulder phase. If you have enough damage to do that, you didn't need to read this guide.)
+
+Trobriand
+
+    There are three rings around the area. As Trobriand is injured, the rings start electrifying. If a scaladar is standing on a ring when it's electrified it wakes up supercharged, and much more dangerous, capable of one-shotting some DPS. So don't attack Trobriand while Scaladar are spawned.
+    During the first phase the tank should block the left-right swipes from Trobriand, and focus on getting stamina back, while pointing Trobriand at one or more Scaladars. When he does his cone AOE (which everyone must avoid, even the tank), it will wake up any Scaladar it hits. The DPS kill them while the tank keeps fighting/blocking/positioning Trobriand. While tanking Trobriand watch carefully for him to do a palm blast--you must block it, as it can one-shot a tank when unblocked. If Trobriand just stands still doing nothing for a long period of time (5-6 seconds) he might be doing a palm blast with no animation (occasional bug), so block.
+    After the first set of Scaladar are dead, go full damage mode (use artifacts now) on Trobriand. Around 60% the rings will be fully electrified, and then reset to off, spawning 4 more Scaladar. Stop damage on Trobriand.
+    At this point the tank will awaken the next 4 Scaladar (at whatever pace you are comfortable with) and the DPS will kill them. After they are all dead, back to full damage on Trobriand. Around 30% Trobriand will move to the center of the room and start to gain a charge from the tesla coils.
+    The party must kill the coils as quickly as possible; the longer you take, the larger the blast will be that you must survive. When the last tower dies, everyone stands with the healer, and everyone activates anything that helps them survive damage. If you die to the blast you can't be rezzed. Survivors finish killing Trobriand, while the tank focuses on blocking Palm Blast (which Trobriand will use more often), which means you usually only block one (or even none) of the left-right swings to save your stamina for the blast.
+    Throughout the fight you will get polarity symbols of + or - over your head, linked to someone else. If you have the same symbol, you must stand near each other. If you have opposite symbols you much stand far apart (like on opposite sides of the circle, even into the coils). When Trobriand claps his hands you will be either repelled apart (same) or pulled together (opposite). If you are too far apart when same you will get a debuff. If you are too close together when opposite you will collide, taking a ton of damage and get a debuff. The debuff from either pairing (a chain) makes you do less/take more damage, and needs to be cleansed by the healer. Note there will also be a white skull debuff--that's what keeps you from rezzing if you die to the blast, and it can't be cleansed.
+
+
+trials
+====
+codg
+---
+when linked, move skull towards apparition. when over half way kill it from behind to push over edge
+when linked, move gel cube towards corner, then kill to clog cogs. no AOE in centre to kill them accidentally.
+
+cut atropal cords in order, clockwise as team. make sure all revived before last cut.
+when atropal drops down, go to outer edge to resist pull/push. 2 sec pull, then push. stand sideways to see whats going on
+dodge the red!
+when aracek spawns, kill him asap inside time limit, or wipe. Then hide in golden globe, then kill atropal.
+
+edemo
+---
+purple gates only, rest is easy
+aim gosistro charge into gold gates to damage, or wall. Not into black gates, they heal him!
+
+swardborg
+---
+always prioritise permafrost to release teammates!
+if you get red arrow, move away from everyone, or you will knock them all down with rocks.
+
+army: stay generally in centre for heals.
+after army: quickly get to pillars beside throne to shelter from blizzard.
+storvald/manticiores:
+focus on 1 manticore together. 2nd tank can occupy other manticore. healers should switch to cleanse for poisons.
+
