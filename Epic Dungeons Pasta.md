@@ -3,10 +3,10 @@
 
 last boss
 ```
-red arrow beam hurts, hide behind boss. blue arrow beam heals boss, stant in the way of it and block it
+red arrow beam hurts, hide behind boss. blue arrow beam heals boss, stand in the way of it and block it
 ```
 
-# **Cragmiore Crypts (Master)**
+# **Cragmire Crypts (Master)**
 `cc, crag, crypts`
 
 placeholder
@@ -17,9 +17,9 @@ placeholder
 # **Gray Wolf Den (Master)**
 `gwd, den`
 
-placeholder
+last boss
 ```
-placeholder
+kill small red wolf to turn boss back to human
 ```
 
 # **Malabog's Castle**
@@ -43,7 +43,7 @@ placeholder
 
 Valindra fight
 ```
-fress f on coffins when they spawn, save dailies for adds that spawn from coffins
+press f on coffins when they spawn, save dailies for adds that spawn from coffins
 ```
 Valindra dodge
 ```
@@ -57,9 +57,9 @@ when boss is below 20% hp just focus on damaging the boss, too many coffins spaw
 # **Lair of Lostmauth**
 `lol`
 
-placeholder
+last boss
 ```
-placeholder
+at 50% get to centre to avoid gold. stand edge of centre to avoid falling rocks.
 ```
 
 # **Fangbreaker Island**
@@ -105,10 +105,7 @@ placeholder
 # **Lair of the Mad Mage**
 `lomm`
 
-placeholder
-```
-placeholder
-```
+too complex for nwpasta, see notes.txt
 
 # **The Infernal Citadel**
 `tic, ic`
