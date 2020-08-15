@@ -1,65 +1,77 @@
+(copied from various sources, mostly reddit and nwo-uncensored, tweaked by me)
+
 to9g
 ----
-initally, choose passage with face on wall
+initally, choose passage with big face on wall
 
-1st puzzle: pattern on floor in centre, find matching one on coffins in each corner
-pre-orcus: 3 items to symbols to click on. triangle gives temp hit point->tank,
-					middle cross gives undead->aoe dps
-					right orcus single target->top dps
-orcus - avoid the balls, which are instakill. Boosted tank must block them.
+1st puzzle: pattern on floor in centre, find matching one on coffins on each side
+stick together as mobs can be hard.
+pre-orcus: clear room then 3 items to symbols to click on.
+										left triangle gives temp hit point->tank,
+									   	middle cross gives undead->aoe dps
+										right orcus single target->top dps
+orcus -
+ - avoid the balls, which are instakill. Boosted tank must block them.
 downstairs to puzzle
-dino pit, downstairs, puzzle.
-2nd boss weather control station. no fancy mechanics.
+dino pit, then downstairs, then puzzle.
+2nd boss weather control station. no fancy mechanics, try to stay out of electrified water.
 some ads,
-room before boss: make sure companions are non-agressive.
+room before boss with tomb dwarfs: make sure companions are non-agressive.
 
 ras nsi -
 - He will charge his soulmonger, if it gets full its a wipe.
 - Specific cirular attack to call souls, to charge soulmonger. take out souls asap.
 - if ghost appears, need to be far side of platform to not get pushed off.
-- 'i will strike you dead' - get to centre, drop heals.
+- 'I will strike you dead' - get to centre, drop heals.
 
-puzzle rooms:
+3 possible puzzle rooms:
 - 3 mimics, basically shell game, follow light between 3 chests.
-- interact with 6 objects in order, using log screen to see if right/wrong.
+- interact with 6 objects in order, using log screen to see if right/wrong. Usually easier to fail deliberately.
 - drink potions, others tell you what colour, you go to correct pedastal
 
 
 temple spider master
 ---
 final boss -
-- red beam hurts, block with boss or dodge. The player that’s being targeted has to run away
+- red beam hurts, block with boss or dodge. The player that’s being targeted has to run away.
 from the group and dodge that thing or another player has to dodge/block/intercept the beam for the target.
 - blue beam heals boss, block it.
 - kill all the adds asap
+(with 2020 endgame player levels, its easy - ignore mechanics and just kill boss.)
 
 
 fangbreaker island
 ---
-Manticore - when leaps up, hide on rock ledge from avalanche
-On ice, hit/knock explosive runes before they fire
-turtle - To avoid steam cannon, hit him with explosive rune when he rears up from water
+Manticore - 
+- when it leaps up, hide on rock ledge from avalanche
+- On ice, hit/knock explosive runes before they fire
+turtle - 
+- To avoid steam cannon, hit him with explosive rune when he rears up from water.
 Drufi - 
-- dodge the permafrost pillars, leave any empty ones
-- Call of Winter - Drufi will run to the center of the arena along the waterfront, here she will begin
+- dodge the permafrost pillars, leave any empty ones to hide behind later
+- 'Call of Winter', Drufi will run to the center of the arena along the waterfront, here she will begin
 channeling rune magic. hide behind permafrost pillars
-- hypothermia - person targeted because there is a huge arrow. group them and share damage.
+- 'hypothermia', person targeted because there is a huge 4-arrow. group them and share damage.
 
 
 spellplague caverns master
 ----
-3 bosses
+3 bosses:
 kabal -
-- chains 2 players: get chain in a ball to melt it. 3 cycles. if linked to a ball, pull it into kabal.
+- chains 2 players: get chain in a ball to melt it. if linked to a ball, pull it into kabal.
+- 3 cycles of killing him.
 nothic - 
-- The boss will frequently spawn a pulsating AoE, jump to the area and initiate a massive push.
-Players have to position themselves at the edge of the red AoE warn area that has the most distance 
-to the end of the platform. use dodge.
+- The boss will spawn a pulsating AoE, jump to the area and initiate a massive push. Players have to position themselves
+ at the edge of the red AoE warn area that has the most distance to the end of the platform. use dodge.
 - avoid gaze, use mirrors to reflect gaze.
 nostura - 
-- 'be still' pre-gaze attack. Under 25% she spawns five Planar Tears and five Portals again. 
-The group has to DPS down the tears and every player needs to enter a portal to prevent getting
-one-shotted by the ensuing nuke.
+- laser beams around the edge. move to position (between them) to avoid. Cant destroy them.
+- 'be still' pre-gaze attack. Turn away until shockwave passes or get stunned.
+- if you get cursed (black skull overhead), try to get stunned to clear it.
+- if her health bar turns green, you are on the wrong plane. go through portal.
+- 'grows weary of this'. kill tentacles, kill planar tears, go through portal, kill planar tears. Can send a dps ahead.
+- Under 25% she spawns five Planar Tears and five Portals again. The group has to DPS down the tears and every player
+needs to enter a portal to prevent getting one-shotted by the ensuing nuke.
 
 
 grey wolf den master
@@ -77,9 +89,9 @@ valindra's tower
 ---
 valindra -
 start by using at will/enc, save dailies, until stuff starts at 75%
-- she says 'come forth my minons'. coffins appear, you need to destroy them quick. 
-Can interact with them, not necessary to do damage. If any wights hatch from them, use daily
-to finish them off. if any are left you will get swamped eventially.
+- she says 'come forth my minons'. coffins appear, you need to destroy them quick. Can interact with them, not
+necessary to do damage. If any wights hatch from them, use daily to finish them off. if any are left you will 
+get swamped eventually.
 - she will say 'you will die'. Get to edge of area, and dodge round avoiding red sectors.
 - repeat wights and red sectors,
 - when she's below 20% or so, best seems to ignore wights and just kill her as quick as poss.
@@ -87,17 +99,21 @@ to finish them off. if any are left you will get swamped eventially.
 
 lair of lostmauth
 ---
-lostmauth - huddle in centre at 50%, area floods. stand at corners of central pentagon to
-avoid falling rocks
+lostmauth - 
+- huddle in centre at 50%, area floods. stand at corners of central pentagon to avoid falling rocks
 
 
-castle ravenloft
+castle ravenloft (incomplete)
 ---
 sisters - 
-1 dps keep 1-2 sisters busy with book, 
-Make sure to stand behind the boss if you are not the tank, in order to avoid building up stacks of vitae debuff.
-When the boss states “Attack me if you dare fools” stop attacking to prevent dying from reflect. The chains occur one minute apart, and come with a sequence: The sister will kick everyone away, drain everyone’s Action Points, and then do the chains voice telegraph and attack. 
-Whenever a sister is killed, they enter a phase where the remaining sisters are “gathering their fallen sister’s power.” This is a DPS check and if you fail to kill the fallen sister fast enough, there is a party wipe. at centre of room where first spawn.
+- 1 dps keep 1-2 sisters busy with tome,
+- Make sure to stand behind the boss if you are not the tank, in order to avoid building up stacks of vitae debuff.
+- When the boss states “Attack me if you dare fools” stop attacking to prevent dying from reflect. The chains occur
+one minute apart, and come with a sequence: The sister will kick everyone away, drain everyone’s Action Points,
+and then do the chains voice telegraph and attack. 
+- Whenever a sister is killed, they enter a phase where the remaining sisters are “gathering their fallen sister’s 
+power.” at centre of room where first spawn. If you fail to kill the fallen sister fast enough, it's a party wipe. 
+
 tome:
     Right At-Will – Disabling Phrase: A brief stun with quick cooldown.
     Left At-Will – Shocking Reveal: This is the main tool to pull a sister to you. Notice that this is a channeled mechanic, meaning you need to hold the at-will (default on PC left mouse button) to keep the sister aggro’d. You can move while channeling it. This is crucial to move the sister to where you want her.
@@ -105,9 +121,10 @@ tome:
     Daily – Stunning Revelation: A longer, cone area stun that affects the sisters.
 
 arcolith -
-dps attack from rear, but not completely behind. 
-When the boss starts spinning, it cannot be damaged until it crashes into one of the four pillars in the room and once you run out of pillars, you automatically fail the fight. when it hits pillar, debuffed so hit it hard then.
-dont allow the Arcolith to touch the pillars with his sword except when he is spinning.
+- dps attack from rear, but not completely behind. 
+- When the boss starts spinning, it cannot be damaged until it crashes into one of the four pillars in the room,
+but once you run out of pillars, you automatically fail the fight. when it hits pillar, debuffed so hit it hard then.
+- dont allow the Arcolith to touch the pillars with his sword except when he is spinning.
 
 Strahd - 
 stick together
@@ -119,10 +136,11 @@ Rondo of the Night: He performs this at 25% HP. Everyone is raised onto a large 
 LOMM
 ---
 Arcturia - 
+- agree on corners before starting. Usually Tank+Heal go to the green corner. Strongest DPS goes to yellow. Place the
+other DPS at blue/purple.
     Butterfly cloud keeps you from using powers; stay out of it.
     Thorns hit 3 times, tank should block at least 2 of them.
-    At 80% mimic phase starts. Tank/Heal go to the green corner. Strongest DPS goes to yellow. Place the
-other DPS at blue/purple. After the Tank/Heal kill their 1st mimic, they should go help the blue/purple
+    At 80% mimic spawns in corners. After the Tank/Heal kill their 1st mimic, they should go help the blue/purple
 DPS kill their mimics. If the yellow DPS is ranged they can help blue/purple in the delay they have from
 killing their first till their second spawns. If one of the DPS just can't kill a mimic, have then run with
 the tank/heal instead. Once 6 mimics are dead the phase ends. 
@@ -189,9 +207,8 @@ either pairing (a chain) makes you do less/take more damage, and needs to be cle
 will also be a white skull debuff--that's what keeps you from rezzing if you die to the blast, and it can't be 
 cleansed.
 
-TIC
+TIC (incomplete)
 ---
-
 First Boss Morzach -
 3 demons will give you their powers to "help" you. You must choose which will help you.
 - Ozgannon (left) gives a power that interrupts and hold enemies.
@@ -260,20 +277,23 @@ when aracek spawns, kill him asap inside time limit, or wipe. Then hide in golde
 
 edemo
 ---
-purple gates only, rest is easy
+purple gates only to get gold/fastest, rest is easy
 aim gosistro charge into gold gates to damage, or wall. Not into black gates, they heal him!
 
 swardborg
 ---
 always prioritise permafrost to release teammates!
 if you get red arrow, move away from everyone, or you will knock them all down with rocks.
-
-army: stay generally in centre for heals.
+phases - 
+army: stay generally in centre for heals and watch for permafrost.
 after army: quickly get to pillars beside throne to shelter from blizzard.
 storvald/manticiores:
 focus on 1 manticore together. 2nd tank can occupy other manticore. healers should switch to cleanse for poisons.
 
 TOMM
 ---
-tbd!
+tbd! my level too low!
 
+Zariel
+---
+ditto!
