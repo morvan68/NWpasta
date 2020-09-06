@@ -8,16 +8,17 @@ malabog castle
 ---
 nothing special, chase through, kill catapaults, kill adds etc
 final boss
-- does attack where area is red striped. best area to hang around is near the entrance.
+- does an attack where area is red striped. best area to hang around is near the entrance.
 - look out for valindra's black circles at same time
 - Also, someone can get grabbed; heal or free them
 
 castle never
 ---
-pretty basic.
-1st boss - avoid contact with partner when chained together
-2nd boss - floor will collapse onto spikes seen in cutscene. note the areas and avoid
-3rd boss - again chains and deadly globes
+beholder - avoid contact with partner when chained together by green beam.
+with death globe, stop undead reaching the centre.
+illithid - floor will collapse onto spikes seen in cutscene. note the areas and avoid when it happens
+for dark section with zombies on floor, stick to jumping on edge/along furniture to not activate them
+orcus - again chains and deadly globes
 
 temple spider master
 ---
@@ -42,9 +43,9 @@ lostmauth -
 
 to9g
 ----
-initally, choose passage with big face on wall
+initially in open area, choose passage with big face on wall
 
-1st puzzle: pattern on floor in centre, find matching one on coffins on each side
+1st puzzle: pattern on floor in room centre, find matching one on coffins on each side
 stick together as mobs can hit hard.
 pre-orcus: clear room then 3 items to symbols to click on.
 		left triangle gives temporary hit points -> tank,
@@ -56,7 +57,7 @@ downstairs to puzzle
 dino pit, then downstairs, then puzzle.
 2nd boss weather control station. no fancy mechanics, try to stay out of electrified water.
 some ads,
-room before boss with tomb dwarfs: make sure companions are non-agressive.
+room before boss with tomb dwarfs: make sure companions are non-aggressive.
 
 ras nsi -
 - He will charge his soulmonger, if it gets full its a wipe.
@@ -65,19 +66,21 @@ ras nsi -
 - 'I will strike you dead' - get to centre, drop heals.
 
 3 possible puzzle rooms:
-- 3 mimics, basically shell game, follow light between 3 chests.
+- 3 mimics, basically the shell game, follow light between 3 chests, choose wisely at end.
 - interact with 6 objects in order, using log screen to see if right/wrong. Usually easier to fail deliberately.
 - drink potions, others tell you what colour, you go to correct pedastal
 
 
 fangbreaker island
 ---
+clear adds up path to scale island. 2 avalanches to avoid, step back if you get a rumble starting.
 Manticore - 
-- when it leaps up, hide on rock ledge from avalanche
-- On ice, hit/knock explosive runes before they fire
-turtle - 
+- hide on small rock ledge to avoid avalanche at start, and again when it leaps up and dissappears
+On ice, hit/knock explosive runes before they fire
+Turtle - 
 - To avoid steam cannon, hit him with explosive rune when he rears up from water. aim the runes, dont shoot randomly.
 Drufi - 
+- slow damage at start, give her time to create permafrost pillars, you need them later.
 - dodge the permafrost pillars, leave any empty ones to hide behind later
 - 'Call of Winter', Drufi will run to the center of the arena along the waterfront, here she will begin
 channeling rune magic. hide behind permafrost pillars
@@ -88,14 +91,14 @@ spellplague caverns master
 ----
 3 bosses:
 kabal -
-- chains 2 players: get chain in a ball to melt it. if linked to a ball, pull it into kabal.
+- chains 2 players: get chain in a ball to melt it. If linked to a ball, pull it into kabal, makes him vunerable.
 - 3 cycles of killing him.
 nothic - 
 - The boss will spawn a pulsating AoE, jump to the area and initiate a massive push. Players have to position
 themselves at the edge of the red AoE warn area that has the most distance to the end of the platform. use dodge.
 - avoid gaze, use mirrors to reflect gaze.
 nostura - 
-- laser beams around the edge. move to position (between them) to avoid. Cant destroy them.
+- laser beam yellow portals appear around the edge. move to position (between them) to avoid. Can't destroy them.
 - 'be still' pre-gaze attack. Turn away until shockwave passes or get stunned.
 - if you get cursed (black skull overhead), try to get stunned to clear it.
 - if her health bar turns green, you are on the wrong plane. go through portal.
@@ -121,32 +124,39 @@ castle ravenloft (incomplete)
 sisters - 
 - 1 dps keep 1-2 sisters busy with tome,
 - Make sure to stand behind the boss if you are not the tank, in order to avoid building up stacks of vitae debuff.
-- When the boss states “Attack me if you dare fools” stop attacking to prevent dying from reflect. The chains occur
-one minute apart, and come with a sequence: The sister will kick everyone away, drain everyone’s Action Points,
+- When the boss states “Attack me if you dare fools” stop attacking to prevent dying from reflect.
+The chains occur one minute apart, and come with a sequence: The sister will kick everyone away, drain everyone’s Action Points,
 and then do the chains voice telegraph and attack. 
 - Whenever a sister is killed, they enter a phase where the remaining sisters are “gathering their fallen sister’s 
 power.” at centre of room where first spawn. If you fail to kill the fallen sister fast enough, it's a party wipe. 
 
-tome:
+tome: (this may have changed)
     Right At-Will – Disabling Phrase: A brief stun with quick cooldown.
-    Left At-Will – Shocking Reveal: This is the main tool to pull a sister to you. Notice that this is a channeled mechanic, meaning you need to hold the at-will (default on PC left mouse button) to keep the sister aggro’d. You can move while channeling it. This is crucial to move the sister to where you want her.
+    Left At-Will – Shocking Reveal: This is the main tool to pull a sister to you. Notice that this is a channeled mechanic,
+meaning you need to hold the at-will (default on PC left mouse button) to keep the sister aggro’d.  Move the sister to where
+you want her.
     Encounter – Deception’s Rebuke: Clears negative effects from players in small area around the tome user.
     Daily – Stunning Revelation: A longer, cone area stun that affects the sisters.
 
 arcolith -
 - dps attack from rear, but not completely behind. 
 - When the boss starts spinning, it cannot be damaged until it crashes into one of the four pillars in the room,
-but once you run out of pillars, you automatically fail the fight. when it hits pillar, debuffed so hit it hard then.
+but once you run out of pillars, you automatically fail the fight. when it hits pillar, its debuffed so hit it hard then.
 - dont allow the Arcolith to touch the pillars with his sword except when he is spinning.
 
 Strahd - 
-stick together
+stick together!
+A dps has to take the sword. Before going in, everyone can use the sword to get a buff.
+If someone has an aoe with arrows towards them, they have to move away from the party or they will kill everyone.
+Red flames indicate where big aoes will strike. They hurt a lot. 
+During each phase, you will have to get the sword back, hit the boss, sustain damage, kill 4 monsters around the arena.
 
-a dps has to take the sword. Before going in, everyone can use the sword to get a buff. Always stay together. You will have to face big bursts of damage. If someone has an aoe with arrows towards them, they have to move away from the party or they will kill everyone. You can be teleported in a room with ghouls. Do not hurt them, run away. Hide behind a pillar, then another… stay there if the ghouls stop following you. Red flames indicate where big aoes will strike. You do not have much time to move away. They hurt a lot. During each phase, you will have to get the sword back, hit the boss, sustain damage, kill 4 monsters around the arena… At the end (25%), everyone has to go to the center of the room, and the one with the sword has to use its daily power at the right moment (when the boss says “raise me to the heavens”) to protect everyone. Then you finish the boss.
-
-kidnap phase - one down below, stay alive. rest above, kill doppelgangers.
-taunts one player saying “Come then”, don't hit him.
-Rondo of the Night: He performs this at 25% HP. Everyone is raised onto a large floating platform, where you then need to use the daily power of the Sunsword, Sundrenched Aegis. You should wait until the sword states “Now, raise me to the heavens” before casting the daily. To make sure the length of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
+kidnap phase - one down below, stay alive. There are ghouls. Do not hurt them, run away. Hide behind a pillar, 
+then another. rest players above, kill doppelgangers. 
+Taunts one player saying “Come then”, that player shouldn't hit him.
+Rondo of the Night: At 25% HP. everyone has to go to the center of the room, you then need to use the daily power of 
+the Sunsword, Sundrenched Aegis. You  wait until “Now, raise me to the heavens” before casting. To make sure the length 
+of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
 
 
 LOMM
@@ -223,7 +233,7 @@ will also be a white skull debuff--that's what keeps you from rezzing if you die
 cleansed.
 
 
-TIC (incomplete)
+TIC (incomplete, still in draft form)
 ---
 First Boss Morzach -
 3 demons will give you their powers to "help" you. You must choose which will help you.
@@ -237,22 +247,25 @@ then choose a path. take the one that stops portals, as it reducxes add during b
 
 for fight, Never stay in front of the boss : it can charge and all of its attacks will cleave and deal damage to everyone it faces.
 When the boss launches into the air, stay close to it and don't move : this should be enough to avoid taking damage.
-damage dealers destroy the spores when they spawn so that there's not poison everywhere.
+DPS must destroy the spores when they spawn so that there's not poison everywhere.
 
 Second boss Zaphael -
 Tank should circle around the arena while others stay in the middle or at least not too far away so that healing them is easier.
-The boss must not face anyone but the tank or people will die. The tank must always be visible from the boss or the boss will target someone else.
+The boss must not face anyone but the tank or people will die. The tank must always be visible from the boss or the boss will
+target someone else.
 
 phase 1, there will be big red AOEs on the ground that will spawn under everyone's feet. These are deadly, will one-shot you.
-At 75/50/25/7%, the boss will teleport to the middle and 2 imps will grab players. Players should be saved from the imps and hide behind pillars. The boss will explode and you won't survive.
+At 75/50/25/7%, the boss will teleport to the middle and 2 imps will grab players. Players should be saved from the imps and
+hide behind pillars. The boss will explode and you won't survive.
 
-phase 2, small small aoe follwing you, like bel. count to 3, move to avoid the damage.
+phase 2, after 75%, small small aoe following you, like bel. Count to 3, move to avoid the damage.
 if the boss cannot see you, you will not be targeted by any aoe : as a healer, you can  hide  behind a pillar while healing the tank with aoes. 
 healer: Divine Glow is very recommanded to sustain your divinity.
 
 Signals:
 Big red signal means just deal a lot of damage but it will disappear.
-Little red and following signal means deal damage and create fire are wher it falls. ( important tactic: try roll/dash/dodge to big fire areas between columns when little red signal follow you. If you do this you will have more space to fight).
+Little red and following signal means deal damage and create fire are wher it falls. ( important tactic: try roll/dash/dodge to
+big fire areas between columns when little red signal follow you. If you do this you will have more space to fight).
 
 Third boss Hellfire Engine -
 avoid the attacks, and do not break the ground too fast. But the execution is a bit harder and you will need good team efforts to make it. That one cannot be beaten with half of the team dead from the start.
@@ -277,31 +290,9 @@ Tip 2nd boss - dc and ranged dps don't need to chase the boss like melee, they c
 
 Tip 3rd boss - many times when the single circle is spawning, if it's on the healer/tank even if they move on a clean tile in the end the circle is appearing on one/two random dps. Move all to a clean tile to avoid having these "surprise" circles in the middle.
 ***
-First Boss : 3 demons will give you their powers to “help” you. You must choose which will help you.
 
-    Ozgannon (left) gives a power that interrupts and hold enemies.
-    Zaxumander (middle) gives a power that deals damage and helps with poison
-    Urzuuroch (right) gives a power that helps breaking the chains (2 are almost enough to break one chain)
 
-It is very recommanded to have everyone in the party use the same power, otherwise you will be split and a bug may occur that will prevent the boss from spawning. In which case, you will have to wipe and start again. People generally take the power from Urzuuroch : it makes breaking the chains much faster and the other powers are unneccessary anyway.
-
-Then you will have to choose which path you will take. You can either break a portal or a spore. Breaking both portals or spores will prevent them from spawning during the boss fight. It is largely preferable to break both portals so that adds do not spawn during the boss fight.
-
-The fight itself is quite easy (though hard on the tank). Never stay in front of the boss : it can charge and all of its attacks will cleave and deal damage to everyone it faces. When the boss launches into the air, stay close to it and don’t move : this should be enough to avoid taking damage. From time to time, it will deal some damage and bump those behind it : this is very manageable. As long as the tank can sustain the damage and block when necessary, and the damage dealers destroy the spores when they spawn so that there’s not poison everywhere, it’s quite an easy fight.
-
-Second boss : the hardest one, to some extent. It’s clearly a tough one. You will need to heal continuously a tank that will fight for their life. It will be especially tough if your tank doesn’t have capped defense (85k) and critical avoidance (90k for Barbarians and Fighters, 100k for Paladins), and as much deflection (capped at 85k) and HP (at least 700k) as possible. The way the tank will move is crucial to the fight. If dps are running in every corner, you won’t able to save them all : focus on healing the tank. Tank should circle around the arena while others stay in the middle or at least not too far away so that healing them is easier.
-
-The boss must not face anyone but the tank or people will die. The tank must always be visible from the boss or the boss will target someone else.
-
-During phase 1, there will be big red AOEs on the ground that will spawn under everyone’s feet. These are deadly. And I mean really, whatever your HP and defensive stats. When they spawn : move away. These will continue appearing during the whole fight.
-
-At 75/50/25/7%, the boss will teleport to the middle and 2 imps will grab players. Players should be saved from the imps and hide behind pillars. The boss will explode and, unless you are very tanky and very lucky, you won’t survive. I did survive once, with almost no life remaining, and I think I deflected the attack (and I was at full life, 460k HP, before being grabbed by the imp).
-
-During phase 2, starting with the first boss explosion, everyone will be targeted with a small aoe. When that happens, simply count to 3 : position yourself so that at 3 you are somewhere where it’s okay to have fire until the next threshold/boss explosion (if you can sustain the damage, put them where there’s already fire, close to the pillars). At 4, fire will spawn where you were the previous second. Just get the proper timing and/or keep moving to avoid the damage.
-
-This boss is tough, but it can “easily” be finished by just a tank+healer, so do not despair if your dps are dead and there’s not too much life remaining on the boss (otherwise it would take ages). The only problem is you will probably have to use a scroll on the next threshold. But there’s no time limit.
-
-One interesting thing to note, which is actually a key to making this fight way easier (though it would require very good knowledge on the attack timings), is that if the boss cannot see you, you will not be targeted by any aoe : nor the big deadly ones, nor the small annoying ones. This means, as a healer, you can easily hide constantly behind a pillar while healing the tank with aoes (it requires some precision but it’s not that hard). Healing the tank will be a bit harder, but not being targeted by anything is nice. Doing this is not always a good idea. It really depends on the group.
+2nd -One interesting thing to note, which is actually a key to making this fight way easier (though it would require very good knowledge on the attack timings), is that if the boss cannot see you, you will not be targeted by any aoe : nor the big deadly ones, nor the small annoying ones. This means, as a healer, you can easily hide constantly behind a pillar while healing the tank with aoes (it requires some precision but it’s not that hard). Healing the tank will be a bit harder, but not being targeted by anything is nice. Doing this is not always a good idea. It really depends on the group.
 
 The main thing is to stay very close together so that you can easily escape the big aoes and they are not all over the place.
 
@@ -346,7 +337,7 @@ aim gosistro charge into gold gates to damage, or wall. Not into black gates, th
 swardborg
 ---
 always prioritise permafrost to release teammates!
-if you get red arrow, move away from everyone, or you will knock them all down with rocks.
+if you get single red arrow, move away from everyone, or you will knock them all down with rocks.
 phases - 
 army: stay generally in centre for heals and watch for permafrost.
 after army: quickly get to pillars beside throne to shelter from blizzard.
