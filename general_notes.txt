@@ -6,16 +6,17 @@ basically same as normal, but harder
 
 malabog castle
 ---
-nothing special, chase through, kill catapaults, kill adds etc
+initally chase through, kill catapaults, kill adds etc
 final boss
 - does an attack where area is red striped. best area to hang around is near the entrance.
 - look out for valindra's black circles at same time
-- Also, someone can get grabbed; heal or free them
+- valindra will intervene occasionally. attack asap.
+- 	   if she grabs someone, she will drain them until she's 'killed'. heal them and attack her quickly.
 
 castle never
 ---
 beholder - avoid contact with partner when chained together by green beam.
-with death globe, stop undead reaching the centre.
+with large death globe encounter, stop undead reaching the centre.
 illithid - floor will collapse onto spikes seen in cutscene. note the areas and avoid when it happens
 for dark section with zombies on floor, stick to jumping on edge/along furniture to not activate them
 orcus - again chains and deadly globes
@@ -29,10 +30,10 @@ and dodge or another player has to dodge/block/intercept the beam for the target
 - kill all the adds asap
 (with 2020 endgame player levels, its easy - ignore mechanics and just kill boss.)
 
-grey wolf den master
+gray wolf den master
 ---
 final boss will swap from human (killable) to werewolf (invunerable).
-Kill small red wolf next to her to make her human.
+Kill small red wolf _next_ to her to make her human. Dont kill it far away from boss.
 
 lair of lostmauth
 ---
@@ -223,19 +224,14 @@ to the center of the room and start to gain a charge from the tesla coils.
 you must survive. When the last tower dies, everyone stands with the healer, and everyone activates anything that 
 helps them survive damage. If you die to the blast you can't be rezzed. Survivors finish killing Trobriand, while 
 the tank focuses on blocking Palm Blast (which Trobriand will use more often).
-    Throughout the fight you will get polarity symbols of + or - over your head, linked to someone else. If you 
-have the same symbol, you must stand near each other. If you have opposite symbols you much stand far apart (like 
-on opposite sides of the circle, even into the coils). When Trobriand claps his hands you will be either repelled 
-apart (same) or pulled together (opposite). If you are too far apart when same you will get a debuff. If you are 
-too close together when opposite you will collide, taking a ton of damage and get a debuff. The debuff from 
-either pairing (a chain) makes you do less/take more damage, and needs to be cleansed by the healer. Note there 
-will also be a white skull debuff--that's what keeps you from rezzing if you die to the blast, and it can't be 
-cleansed.
+    Throughout the fight you will get polarity symbols of + or - over your head linked to someone else. If you 
+have the same symbol, you must stand near each other. If you have opposite symbols you much stand far apart. When
+Trobriand claps his hands you will be either repelled  apart (same) or pulled together (opposite). If you collide, 
+you get bad debuff/damage, needs to be cleansed by the healer.
 
 
 TIC (incomplete, still in draft form)
 ---
-First Boss Morzach -
 3 demons will give you their powers to "help" you. You must choose which will help you.
 - Ozgannon (left) gives a power that interrupts and hold enemies.
 - Zaxumander (middle) gives a power that deals damage and helps with poison
@@ -245,14 +241,23 @@ everyone shoyuld take same power. usually Urzuuroch preferred
 
 then choose a path. take the one that stops portals, as it reducxes add during boss fight
 
-for fight, Never stay in front of the boss : it can charge and all of its attacks will cleave and deal damage to everyone it faces.
-When the boss launches into the air, stay close to it and don't move : this should be enough to avoid taking damage.
+1st Boss Morzach -
+Never stay in front of the boss : it can charge and all of its attacks will cleave and deal damage to everyone it faces.
+When the boss launches into the air, he flies and throw spikes you can dash below his belly, right into his circle, to avoid the hit.
 DPS must destroy the spores when they spawn so that there's not poison everywhere.
 
-Second boss Zaphael -
+2nd boss Zaphael -
 Tank should circle around the arena while others stay in the middle or at least not too far away so that healing them is easier.
 The boss must not face anyone but the tank or people will die. The tank must always be visible from the boss or the boss will
 target someone else.
+
+The main thing is to stay very close together so that you can easily escape the big aoes and they are not all over the place.
+
+healer tip - One interesting thing to note, which is actually a key to making this fight way easier, is that if the
+boss cannot see you, you will not be targeted by any aoe. This means, as a healer, you can easily hide constantly 
+behind a pillar while healing the tank with aoes (it requires some precision but it’s not that hard). Healing the
+tank will be a bit harder, but not being targeted by anything is nice. Doing this is not always a good idea. It really
+depends on the group.
 
 phase 1, there will be big red AOEs on the ground that will spawn under everyone's feet. These are deadly, will one-shot you.
 At 75/50/25/7%, the boss will teleport to the middle and 2 imps will grab players. Players should be saved from the imps and
@@ -267,54 +272,39 @@ Big red signal means just deal a lot of damage but it will disappear.
 Little red and following signal means deal damage and create fire are wher it falls. ( important tactic: try roll/dash/dodge to
 big fire areas between columns when little red signal follow you. If you do this you will have more space to fight).
 
-Third boss Hellfire Engine -
-avoid the attacks, and do not break the ground too fast. But the execution is a bit harder and you will need good team efforts to make it. That one cannot be beaten with half of the team dead from the start.
 
-During the whole fight, everyone will be targeted by small aoes like bel. As soon as the aoe is ready to land (it will be fully darker red and you will hear a sound), move or you will die. These aoes break the tiles on which they land, so always make sure to make the aoe hit a single tile. If you move on a destroyed tile, you will die. A tile can sustain 1 hit before breaking. If the whole group is targeted, everyone should regroup on a single tile (preferably one in a corner, which is already damaged). If a single person is targeted, they should move on an undamaged tile, preferably in a corner, so that the arena does not become smaller. The goal is to kill the boss before the arena is destroyed.
-Big tip: If all group stay at same floor and fall fire ball same floor that would be better for you because 5 fire ball hitting ground but just one floor turning fire. And becareful when red signal follows you take place quitly if this signal include another floor other floor take damage also.
+3rd boss Hellfire Engine -
+avoid the attacks, and do not break the ground too fast. If you loose team members early, its a wipe. Healer should
+have divine glow active.
+
+During the whole fight, everyone will be targeted by small aoes like bel. As soon as the aoe is ready to land (it will
+be darker red and you will hear a sound), move or you will die. These aoes break the tiles on which they land, so always
+make sure to make the aoe hit a single tile to avoid destroying arena. *If you move on a destroyed tile, you will die.*
+A tile can sustain 1 hit before breaking. If the whole group is targeted, everyone should regroup on a single tile 
+(preferably one in a corner, which is already damaged). If a single person is targeted, they should move on an undamaged tile, 
+preferably in a corner, so that the arena does not become smaller. The goal is to kill the boss before the arena is destroyed.
+
+Big tip: If all group stay on same tile and pull fireballs to same tile that would be better, because 5 fireballs hitting 
+ground but only one tile is destroyed.
+
+bug/Tip 3rd boss - many times when the single circle is spawning, if it's on the healer/tank, even if they move on a clean tile 
+in the end the circle is appearing on one/two random dps. Move all to a clean tile to avoid having these "surprise" circles
+in the middle.
 
 attacks (they are cyclical) :
     charge : the boss will charge a dps from time to time. Just don't be on the way.
-    tiles on fire : from time to time, a single tile will become red and it will burst fire for a second. You'll take big damage.
+    tiles on fire : from time to time, a single tile will become red and it will burst fire. big damage.
     successive rows or columns on fire : the whole arena will burst fire row after row or column after column.
     laser : don't stay in front of the boss. 
-    lasers : Sometimes boss stop moving and turning around with flame thrower first. And do it after again and again but these times its have laser right and left side at engine. Try to dodge it.
-    chain : The tank will be chained and damaged hard for about 3-5s (about once every minute). Spam Bastion of Health like there's no tomorrow, and use Intercession if necessary (it probably will), otherwise your tank will die. To make it easier, before the chain hits, you can protect your tank with artefacts (like the Sigil of the Paladin) and mount powers (like the Armored Griffon). The boss will roar for 3 seconds before the chain lands. 
-    adds : at the end of the fight, there will be small monsters that will spawn. they can bump you into destroyed tiles, which would kill you.
-
-As soon as you are capable of avoiding all the attacks, it's really about coordinating with your team. The only tough part is being able to heal the tank on the chain attack.
-***
-Tip 1st boss - when he flies and throw spikes you can dash below his belly, right into his circle, to avoid the hit.
-
-Tip 2nd boss - dc and ranged dps don't need to chase the boss like melee, they can be at the centre where the summoning circle is and dodge from there the red aoe etc.
-
-Tip 3rd boss - many times when the single circle is spawning, if it's on the healer/tank even if they move on a clean tile in the end the circle is appearing on one/two random dps. Move all to a clean tile to avoid having these "surprise" circles in the middle.
-***
+    lasers : Sometimes boss stop moving and turning around with flame thrower first. And do it after again and again 
+but these times its have laser right and left side at engine. Try to dodge it.
+    chain : The tank will be chained and damaged hard for about 3-5s (about once every minute). Active heal (BoH or 
+Intercession), otherwise tank will die. The boss will roar for 3 seconds before the chain lands, protect your tank 
+with artefacts (like the Sigil of the Paladin) and mount powers (like the Armored Griffon). 
+    adds : at the end of the fight, there will be small monsters that will spawn. they can bump you into destroyed
+tiles, which would kill you.
 
 
-2nd -One interesting thing to note, which is actually a key to making this fight way easier (though it would require very good knowledge on the attack timings), is that if the boss cannot see you, you will not be targeted by any aoe : nor the big deadly ones, nor the small annoying ones. This means, as a healer, you can easily hide constantly behind a pillar while healing the tank with aoes (it requires some precision but it’s not that hard). Healing the tank will be a bit harder, but not being targeted by anything is nice. Doing this is not always a good idea. It really depends on the group.
-
-The main thing is to stay very close together so that you can easily escape the big aoes and they are not all over the place.
-
-As it is a very intense fight, Divine Glow is very recommanded to sustain your divinity.
-
-Third boss : now, this is the tough one. The strategy is simple : avoid the attacks, and do not break the ground too fast. But the execution is a bit harder and you will need good team efforts to make it. That one cannot be beaten with half of the team dead from the start.
-
-During the whole fight, everyone will be targeted by small aoes (bombardment attack). Just like for the previous fight, you can move to place the aoe where you want it to land. As soon as the aoe is ready to land (it will be fully darker red and you will hear a sound), move or you will die. These aoes break the tiles on which they land, so always make sure to make the aoe hit a single tile, otherwise the arena will be destroyed faster. If you move on a destroyed tile, you will die. A tile can sustain 1 hit before breaking. If the whole group is targeted, everyone should regroup on a single tile (preferably one in a corner, which is already damaged). If a single person is targeted, they should move on an undamaged tile, preferably in a corner, so that the arena does not become smaller. The goal is to kill the boss before the arena is destroyed.
-
-Now, the attacks you will have to avoid (they are cyclical) :
-
-    charge : the boss will charge a dps from time to time. Just don’t be on the way.
-    tiles on fire : from time to time, a single tile will become red and it will burst fire for a second. If you are on the tile when that happens, you’ll take big damage.
-    successive rows or columns on fire : the whole arena will burst fire row after row or column after column. Avoid being where you shouldn’t. Simply teleport on the row/column on fire just before the row/column on which you are becomes dangerous.
-    laser : don’t stay in front of the boss. Well, never do that. Move around the monster.
-    lasers : sides are not safe either. Healing is not safe during this phase, better wait for it to end before landing a Bastion of Health.
-    chain : this is the real test ! The tank will be chained and damaged hard for about 3-5s (about once every minute). Spam Bastion of Health like there’s no tomorrow, and use Intercession if necessary (it probably will), otherwise your tank will die, yes even with all stats capped and 1m HP, they will die if you do not react fast enough. To make it easier, before the chain hits, you can protect your tank with artefacts (like the Sigil of the Paladin) and mount powers (like the Armored Griffon). The boss will roar for 3 seconds before the chain lands. That’s the signal to use your artefact/mount and prepare to heal.
-    adds : at the end of the fight, there will be small monsters that will spawn. They are not too dangerous by themselves, but they can bump you into destroyed tiles, which would kill you.
-
-The main thing to remember is that the boss will always use its laser(s) attack after a group bombardment. And right after the laser(s), it will chain the tank.
-
-As soon as you are capable of avoiding all the attacks, it’s really about coordinating with your team. The only tough part (well, everything is tough, but as far as healing is concerned) is being able to heal the tank on the chain attack. If they do not have their defensive stats capped, the damage spike may kill them (especially if they take a critical hit). Then it’s really a matter of being with good dps. As long as they can stay alive until the end, and they do good damage, if you do not break the arena too fast, it will work out.
 
 
 Trials
