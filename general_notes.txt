@@ -11,14 +11,16 @@ final boss
 - does an attack where area is red striped. best area to hang around is near the entrance.
 - look out for valindra's black circles at same time
 - valindra will intervene occasionally. attack asap.
-- 	   if she grabs someone, she will drain them until she's 'killed'. heal them and attack her quickly.
+- if she grabs someone, she will drain them until she's 'killed'. heal them and attack her quickly.
 
 castle never
 ---
+room with rifts - each dps/tank takes a rift, kills whats in it, and gets auto-transported to help others.
+clear all the rifts. Healer may as well chill.
 beholder - avoid contact with partner when chained together by green beam.
-with large death globe encounter, stop undead reaching the centre.
+large death globe encounter - stop undead reaching the centre.
 illithid - floor will collapse onto spikes seen in cutscene. note the areas and avoid when it happens
-for dark section with zombies on floor, stick to jumping on edge/along furniture to not activate them
+for dark section with zombies on floor, stick to jumping on along furniture to not activate them.
 orcus - again chains and deadly globes
 
 temple spider master
@@ -39,8 +41,7 @@ lair of lostmauth
 ---
 lostmauth - 
 - dont stand directly behind the dragon, attack from sides.
-- huddle in centre at 50%, area floods lava. more around in central pentagon to avoid falling rocks.
-
+- huddle in centre at 50%, area floods lava. move around in central pentagon to avoid small falling rocks.
 
 to9g
 ----
@@ -82,7 +83,7 @@ Turtle -
 - To avoid steam cannon, hit him with explosive rune when he rears up from water. aim the runes, dont shoot randomly.
 Drufi - 
 - slow damage at start, give her time to create permafrost pillars, you need them later.
-- dodge the permafrost pillars, leave any empty ones to hide behind later
+- dodge the permafrost pillars forming, leave any empty ones to hide behind later
 - 'Call of Winter', Drufi will run to the center of the arena along the waterfront, here she will begin
 channeling rune magic. hide behind permafrost pillars
 - 'hypothermia', person targeted because there is a huge 4-arrow. group hug them and share damage.
@@ -99,12 +100,14 @@ nothic -
 themselves at the edge of the red AoE warn area that has the most distance to the end of the platform. use dodge.
 - avoid gaze, use mirrors to reflect gaze.
 nostura - 
-- laser beam yellow portals appear around the edge. move to position (between them) to avoid. Can't destroy them.
+- if you do too much damage too quickly, she will activate portal and nuke everyone. take it slow!
+- laser beam yellow portals appear around the edge. move to position (next to them) to avoid. Can't destroy them.
 - 'be still' pre-gaze attack. Turn away until shockwave passes or get stunned.
-- if you get cursed (black skull overhead), try to get stunned to clear it.
+- if you get cursed (black skull overhead), try to get stunned to clear it. Also avoid standing next to someone.
 - if her health bar turns green, you are on the wrong plane. go through portal.
 - 'grows weary of this'. kill tentacles, kill planar tears, go through portal, kill planar tears. Can send a dps ahead.
-- Under 25% she spawns five Planar Tears and five Portals again. The group has to DPS down the tears and every
+convention: kill the portals, the crystals, the coils clockwise just because, 
+- Under 25% she spawns five Planar Tears and five Portals. The group has to DPS down the tears and every
 player needs to enter a portal to prevent getting one-shotted by the ensuing nuke.
 
 
@@ -130,6 +133,7 @@ The chains occur one minute apart, and come with a sequence: The sister will kic
 and then do the chains voice telegraph and attack. 
 - Whenever a sister is killed, they enter a phase where the remaining sisters are “gathering their fallen sister’s 
 power.” at centre of room where first spawn. If you fail to kill the fallen sister fast enough, it's a party wipe. 
+convention: start with the red shade.
 
 tome: (this may have changed)
     Right At-Will – Disabling Phrase: A brief stun with quick cooldown.
@@ -178,8 +182,8 @@ was not 100% they are permadead, as well as anyone caught in the blast.
     Any golems that spawned during mimic phase should be tanked to keep them off the healer and ignored by the DPS.
     After the 50% mimic phase she will scream, signalling the end of the mimic phases (unless she bugs out).
     After 50% she will use a few abilities--screams cause random warriors to AOE the floor, avoid it.
-Eyeball will do a long stun to anyone facing her--look away. She will still cocoon people sometimes, heal/avoid
-normally. An AOE arrow will land on someone, group up to share the damage.
+Eyeball will do a long stun to anyone facing her- face away until shockwave. She will still cocoon people sometimes,
+heal/avoid normally. An AOE arrow will land on someone, group up to share the damage.
 
 Bore Worm -
     For the first 10% or so, just kill the worm. The worm attacks random targets regardless of aggro.
@@ -191,6 +195,7 @@ boulder that reaches the center makes the coming charge phase last longer.
     After the sands stop everyone must gather at the stairs and cluster around the player with arrows on them
 to share the AOE hit. Just stand still while the healer keeps you alive, don't try to avoid the red AOE that
 knocks you down, stay clustered.
+    you can also run this with tank alone taking all the aggro, if healer is strong enough.
     The healer usually stands outside the red AOE and heals the group, unless they get arrows on themselves.
 If someone does die, the only way to rez them is for one person without arrows to rez them while the person
 with the arrows moves away with the other two players, otherwise the knockdown will interrupt you.
@@ -218,8 +223,8 @@ a long period of time (5-6 seconds) he might be doing a palm blast with no anima
     After the first set of Scaladar are dead, go full damage mode (use artifacts now) on Trobriand. Around 60% 
 the rings will be fully electrified, and then reset to off, spawning 4 more Scaladar. Stop damage on Trobriand.
     At this point the tank will awaken the next 4 Scaladar (at whatever pace you are comfortable with) and the 
-DPS will kill them. After they are all dead, back to full damage on Trobriand. Around 30% Trobriand will move 
-to the center of the room and start to gain a charge from the tesla coils.
+DPS will kill them. After they are all dead, back to full damage on Trobriand.
+Around 30% Trobriand will move to the center of the room and start to gain a charge from the tesla coils.
     The party must kill the coils as quickly as possible; the longer you take, the larger the blast will be that 
 you must survive. When the last tower dies, everyone stands with the healer, and everyone activates anything that 
 helps them survive damage. If you die to the blast you can't be rezzed. Survivors finish killing Trobriand, while 
@@ -272,15 +277,26 @@ Big red signal means just deal a lot of damage but it will disappear.
 Little red and following signal means deal damage and create fire are wher it falls. ( important tactic: try roll/dash/dodge to
 big fire areas between columns when little red signal follow you. If you do this you will have more space to fight).
 
+on 2nd boss move small red circles near wall and leave them there, if you leave them middle, good chance someone will die because of you. 
 
 3rd boss Hellfire Engine -
+3rd boss, watch your feet for red circles, most groups leave them starting from top left. 
+
+wall where you enter need to be clear from lava for dps check. 
+
+aim the boss at that door when he's near last 10%. 
+
+
+
 avoid the attacks, and do not break the ground too fast. If you loose team members early, its a wipe. Healer should
 have divine glow active.
 
 During the whole fight, everyone will be targeted by small aoes like bel. As soon as the aoe is ready to land (it will
 be darker red and you will hear a sound), move or you will die. These aoes break the tiles on which they land, so always
+convention: put circles in TIC top left.
 make sure to make the aoe hit a single tile to avoid destroying arena. *If you move on a destroyed tile, you will die.*
 A tile can sustain 1 hit before breaking. If the whole group is targeted, everyone should regroup on a single tile 
+
 (preferably one in a corner, which is already damaged). If a single person is targeted, they should move on an undamaged tile, 
 preferably in a corner, so that the arena does not become smaller. The goal is to kill the boss before the arena is destroyed.
 
@@ -311,7 +327,7 @@ Trials
 ====
 codg
 ---
-when linked, move skull towards apparition. when over half way kill it from behind to push over edge
+elevator, when linked, move skull towards apparition. when over half way kill it from behind to push over edge
 when linked, move gel cube towards corner, then kill to clog cogs. no AOE in centre to kill them accidentally.
 
 cut atropal cords in order, clockwise as team. make sure all revived before last cut.
@@ -322,17 +338,18 @@ when aracek spawns, kill him asap inside time limit, or wipe. Then hide in golde
 edemo
 ---
 purple gates only to get gold/fastest, rest is easy
-aim gosistro charge into gold gates to damage, or wall. Not into black gates, they heal him!
+aim gosistro charge into gold gates to damage, or into close wall so he stays nearby. Not into black gates, they heal him!
 
 swardborg
 ---
 always prioritise permafrost to release teammates!
 if you get single red arrow, move away from everyone, or you will knock them all down with rocks.
+if you get 4 red arrows, group hug to share hypothermia damage.
 phases - 
 army: stay generally in centre for heals and watch for permafrost.
 after army: quickly get to pillars beside throne to shelter from blizzard.
 storvald/manticiores:
-focus on 1 manticore together. 2nd tank can occupy other manticore. healers should switch to cleanse for poisons.
+focus on 1 manticore together. 2nd tank can occupy other manticore. healers should include cleanse for poisons.
 
 TOMM
 ---
