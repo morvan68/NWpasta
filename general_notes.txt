@@ -150,18 +150,18 @@ but once you run out of pillars, you automatically fail the fight. when it hits 
 - dont allow the Arcolith to touch the pillars with his sword except when he is spinning.
 
 Strahd - 
-stick together!
-A dps has to take the sword. Before going in, everyone can use the sword to get a buff.
-If someone has an aoe with arrows towards them, they have to move away from the party or they will kill everyone.
+A dps has to take the sword. But before going in, everyone can use the sword to get a buff.
+Stick together! stay at side, not in centre. damage debuff like paladin sigil useful.
+During each phase, survive damage, kill 4 monsters around the arena, get the sword back, hit the boss.
+If you are 4 arrows marked move away from the party or you will kill everyone. Go to candles around edge to survive.
 Red flames indicate where big aoes will strike. They hurt a lot. 
-During each phase, you will have to get the sword back, hit the boss, sustain damage, kill 4 monsters around the arena.
 
 kidnap phase - one down below, stay alive. There are ghouls. Do not hurt them, run away. Hide behind a pillar, 
-then another. rest players above, kill doppelgangers. 
+then another. rest of players above, kill doppelgangers. 
 Taunts one player saying “Come then”, that player shouldn't hit him.
 Rondo of the Night: At 25% HP. everyone has to go to the center of the room, you then need to use the daily power of 
-the Sunsword, Sundrenched Aegis. You  wait until “Now, raise me to the heavens” before casting. To make sure the length 
-of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
+the Sunsword, Sundrenched Aegis (button X). Wait until “Now, raise me to the heavens” before casting, to make sure
+length of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
 
 
 LOMM
