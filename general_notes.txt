@@ -18,10 +18,10 @@ castle never
 room with rifts - each dps/tank takes a rift, kills whats in it, and gets auto-transported to help others.
 clear all the rifts. Healer may as well chill.
 beholder - avoid contact with partner when chained together by green beam.
-large death globe encounter - stop undead reaching the centre.
+Large death globe encounter - stop undead reaching the centre.
 illithid - floor will collapse onto spikes seen in cutscene. note the areas and avoid when it happens
-for dark section with zombies on floor, stick to jumping on along furniture to not activate them.
-orcus - again chains and deadly globes
+For dark section with zombies on floor, stick to jumping on along furniture to not activate them.
+Orcus - again chains and deadly globes
 
 temple spider master
 ---
@@ -121,9 +121,9 @@ get swamped eventually.
 - she will say 'you will die'. Get to edge of area, and dodge round avoiding red sectors.
 - repeat wights and red sectors,
 - when she's below 20% or so, best seems to ignore wights and just kill her as quick as poss.
+(with 2020 endgame player levels, its easy - mostly ignore wights and just kill boss.)
 
-
-castle ravenloft (incomplete)
+castle ravenloft (incomplete as mechanics changes in combat rework)
 ---
 sisters - 
 - 1 dps keep 1-2 sisters busy with tome,
@@ -195,20 +195,20 @@ boulder that reaches the center makes the coming charge phase last longer.
     After the sands stop everyone must gather at the stairs and cluster around the player with arrows on them
 to share the AOE hit. Just stand still while the healer keeps you alive, don't try to avoid the red AOE that
 knocks you down, stay clustered.
-    you can also run this with tank alone taking all the aggro, if healer is strong enough.
+    you can also run this with tank alone taking all the aggro, if healer is strong enough (more common now).
     The healer usually stands outside the red AOE and heals the group, unless they get arrows on themselves.
 If someone does die, the only way to rez them is for one person without arrows to rez them while the person
 with the arrows moves away with the other two players, otherwise the knockdown will interrupt you.
     When the worm sinks back into the ground, the charge phase is over, and you can resume killing the worm.
 Around 40% health the worm will sink down and start another shifting sands.
     Kill boulders without getting pulled into the center again. The tank should try to aggro as many golems
-as they can now. After the sands stop shifting it's time to gather at the stairs again.
-    The tank should try to keep the golems aggro, and wedge themselves into the corner of the stairs so you
-don't get knocked around like crazy. Otherwise stay clustered up and get healed normally.
-    After the worm sinks again the phase is over--resume killing the worm--do not kill the golems. When the
-worm twirls it will kill any golems nearby, making the worm take more damage. More importantly, if the worm
-twirls twice without killing a golem, you will get a new boulder phase with more golems. (Note if your damage
-is good enough, you can kill the golems and kill the worm before it triggers another boulder phase.)
+as they can now. After the sands stop shifting it's shock phase again).
+    The tank should try to keep the golems aggro, and if needed wedge themselves into the corner of the stairs
+so you don't get knocked around like crazy.  dps kill golems as soon as poss.
+    After the phase is over--resume killing the worm--do not kill any left the golems. When the worm twirls
+it will kill any golems nearby, making the worm take more damage. More importantly, if the worm twirls twice
+without killing a golem, you will get a new boulder phase with more golems. (But if your damage is good
+enough, you can kill the golems and kill the worm before it triggers another boulder phase.)
 
 Trobriand -
     There are three rings around the area. As Trobriand is injured, the rings start electrifying. If a scaladar
@@ -287,7 +287,6 @@ wall where you enter need to be clear from lava for dps check.
 aim the boss at that door when he's near last 10%. 
 
 
-
 avoid the attacks, and do not break the ground too fast. If you loose team members early, its a wipe. Healer should
 have divine glow active.
 
@@ -322,23 +321,30 @@ tiles, which would kill you.
 
 
 
-
 Trials
 ====
 codg
 ---
-elevator, when linked, move skull towards apparition. when over half way kill it from behind to push over edge
-when linked, move gel cube towards corner, then kill to clog cogs. no AOE in centre to kill them accidentally.
+elevator phase 1:
+when linked to skull, put yourself by apparition. when skull over half way other dps kill it from behind to push over edge. dont attack from side, only behind.
+elevator phase 2:
+No AOE in centre to kill cubes accidentally.
+when linked to cube, move yourself towards corner quickly, then kill cube to clog cogs.
 
-cut atropal cords in order, clockwise as team. make sure all revived before last cut.
-when atropal drops down, go to outer edge to resist pull/push. 2 sec pull, then push. stand sideways to see whats going on
+atropal cords: 
+cut in order, clockwise as team. make sure all players revived before last cut.
+
+atropal fight:
+when baby drops down, go to outer edge to resist pull/push. 2 sec pull, then a push. Stand sideways to see whats going on
 dodge the red!
 when aracek spawns, kill him asap inside time limit, or wipe. Then hide in golden globe, then kill atropal.
 
 edemo
 ---
-purple gates only to get gold/fastest, rest is easy
-aim gosistro charge into gold gates to damage, or into close wall so he stays nearby. Not into black gates, they heal him!
+open purple gates only to get gold/fastest, rest is easy
+1 tank does demo, with healer. other tank+healer in group with gates
+generally ignore the delusions. They will die in aoe at gates
+aim Gosistro charge into gold gates to damage, or into close wall so he stays nearby. Not into black gates, they heal him!
 
 swardborg
 ---
@@ -357,9 +363,9 @@ tbd! my level too low!
 
 Zariel
 ---
-ditto!
+tbd! my level too low!
 
-Vault of stars
+Vault of stars (draft)
 ---
 always kill flower corpses
 1st boss:
