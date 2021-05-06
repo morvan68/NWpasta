@@ -7,6 +7,7 @@ basically same as normal, but harder
 malabog castle
 ---
 initally chase through, kill catapaults, kill adds etc
+most of the chests are mimics, ignore them.
 final boss
 - does an attack where area is red striped. best area to hang around is near the entrance.
 - look out for valindra's black circles at same time
@@ -15,7 +16,7 @@ final boss
 
 castle never
 ---
-room with rifts - each dps/tank takes a rift, kills whats in it, and gets auto-transported to help others.
+room with rifts - each dps/tank takes a rift, kills whats in it, and gets auto-transported to help others
 clear all the rifts. Healer may as well chill.
 beholder - avoid contact with partner when chained together by green beam.
 Large death globe encounter - stop undead reaching the centre.
@@ -40,8 +41,8 @@ Kill small red wolf _next_ to her to make her human. Dont kill it far away from 
 lair of lostmauth
 ---
 lostmauth - 
-- dont stand directly behind the dragon, attack from sides.
-- huddle in centre at 50%, area floods lava. move around in central pentagon to avoid small falling rocks.
+- dps dont stand directly behind the dragon, attack from sides.
+- at 50% huddle in centre, area floods lava. Move around in central pentagon to avoid small falling rocks.
 
 to9g
 ----
@@ -69,7 +70,7 @@ ras nsi -
 
 3 possible puzzle rooms:
 - 3 mimics, basically the shell game, follow light between 3 chests, choose wisely at end.
-- interact with 6 objects in order, using log screen to see if right/wrong. Usually easier to fail deliberately.
+- interact with 6 objects in order, using log screen to see if right. Usually easier to fail deliberately.
 - drink potions, others tell you what colour, you go to correct pedastal
 
 
@@ -79,10 +80,13 @@ Clear adds up path to top of island. 2 avalanches to avoid, step back if you get
 Manticore - 
 - hide on small rock ledge to avoid avalanche at start, and again when it leaps up and dissappears.
 - healer may need cleanse.
+- dont get between boss and cliff edge, you can get knocked off, permadead.
+Ice caves, calling NPC to melt 2 ice walls.
+- for 2nd wall, you can all hide in dark cave to the left and avoid fighting.
 Then crossing ice, hit/knock explosive runes before they fire only if they are near
 Turtle - 
-comes in cycles. When it withdraws from island, it will eventually fire steam cannon. At that time
-you have to hit it with explosive rune, by knocking rune towards it. Dont waste runes shooting
+- comes in cycles. When it withdraws from island, it will eventually fire steam cannon. At that time
+you have to hit it with explosive rune, by knocking rune towards it. Don't waste runes shooting
 randomly, aim them.
 Drufi - 
 - slow damage at start, give her time to create permafrost pillars, you need them later.
@@ -95,6 +99,9 @@ channeling rune magic. Hide behind permafrost pillars or die.
 
 spellplague caverns master
 ----
+When moving through dungeon, stay away from gates and patches of green mushrooms, to avoid spawning mobs.
+Stay together.
+
 3 bosses:
 kabal -
 - chains 2 players: get chain in a ball to melt it. If linked to a ball, pull it into kabal, makes him vunerable.
@@ -104,13 +111,14 @@ nothic -
 themselves at the edge of the red AoE warn area that has the most distance to the end of the platform. use dodge.
 - avoid gaze, use mirrors to reflect gaze.
 nostura - 
-- if you do too much damage too quickly, she will activate portal and nuke everyone. take it slow!
+- if you do too much damage too quickly, she will activate portal and nuke everyone. take it slow at start!
 - laser beam yellow portals appear around the edge. move to position (next to them) to avoid. Can't destroy them.
 - 'be still' pre-gaze attack. Turn away until shockwave passes or get stunned.
-- if you get cursed (black skull overhead), try to get stunned to clear it. Also avoid standing next to someone.
+- if you get cursed (black skull overhead), try to get stunned to clear it. Also avoid standing next to someone,
+as it's contagious.
 - if her health bar turns green, you are on the wrong plane. go through portal.
-- 'grows weary of this'. kill tentacles, kill planar tears, go through portal, kill planar tears. Can send a dps ahead.
-convention: kill the portals, the crystals, the coils clockwise just because, 
+- 'grows weary of this'. Kill tentacles, kill planar tears, go through portal, kill planar tears. Can send a dps
+ahead. Convention: kill the portals, the crystals, the coils clockwise just because.
 - Under 25% she spawns five Planar Tears and five Portals. The group has to DPS down the tears and every
 player needs to enter a portal to prevent getting one-shotted by the ensuing nuke.
 
