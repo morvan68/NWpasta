@@ -75,17 +75,21 @@ ras nsi -
 
 fangbreaker island
 ---
-clear adds up path to scale island. 2 avalanches to avoid, step back if you get a rumble starting.
+Clear adds up path to top of island. 2 avalanches to avoid, step back if you get a rumble starting.
 Manticore - 
-- hide on small rock ledge to avoid avalanche at start, and again when it leaps up and dissappears
-On ice, hit/knock explosive runes before they fire
+- hide on small rock ledge to avoid avalanche at start, and again when it leaps up and dissappears.
+- healer may need cleanse.
+Then crossing ice, hit/knock explosive runes before they fire only if they are near
 Turtle - 
-- To avoid steam cannon, hit him with explosive rune when he rears up from water. aim the runes, dont shoot randomly.
+comes in cycles. When it withdraws from island, it will eventually fire steam cannon. At that time
+you have to hit it with explosive rune, by knocking rune towards it. Dont waste runes shooting
+randomly, aim them.
 Drufi - 
 - slow damage at start, give her time to create permafrost pillars, you need them later.
-- dodge the permafrost pillars forming, leave any empty ones to hide behind later
+- dodge the permafrost pillars forming around you, leave any empty ones, but attack if people trapped.
+- she will go to one end and summon wind to push you into far wall. Keep running towards her.
 - 'Call of Winter', Drufi will run to the center of the arena along the waterfront, here she will begin
-channeling rune magic. hide behind permafrost pillars
+channeling rune magic. Hide behind permafrost pillars or die.
 - 'hypothermia', person targeted because there is a huge 4-arrow. group hug them and share damage.
 
 
@@ -127,15 +131,15 @@ castle ravenloft (incomplete as mechanics changes in combat rework)
 ---
 sisters - 
 - 1 dps keep 1-2 sisters busy with tome,
-- Make sure to stand behind the boss if you are not the tank, in order to avoid building up stacks of vitae debuff.
-- When the boss states “Attack me if you dare fools” stop attacking to prevent dying from reflect.
-The chains occur one minute apart, and come with a sequence: The sister will kick everyone away, drain everyone’s Action Points,
-and then do the chains voice telegraph and attack. 
+- Make sure to stand behind the boss if you are not the tank, in order to avoid building up stacks of debuff.
+- When the sister says “Attack me if you dare fools” stop attacking to prevent dying from reflect.
+The chains occur one minute apart, and come with a sequence: The sister will kick everyone away, drain
+everyone’s Action Points, and then do the chains voice telegraph and attack. 
 - Whenever a sister is killed, they enter a phase where the remaining sisters are “gathering their fallen sister’s 
 power.” at centre of room where first spawn. If you fail to kill the fallen sister fast enough, it's a party wipe. 
 convention: start with the red shade.
 
-tome: (this may have changed)
+tome: (this may have changed in rework)
     Right At-Will – Disabling Phrase: A brief stun with quick cooldown.
     Left At-Will – Shocking Reveal: This is the main tool to pull a sister to you. Notice that this is a channeled mechanic,
 meaning you need to hold the at-will (default on PC left mouse button) to keep the sister aggro’d.  Move the sister to where
@@ -145,70 +149,70 @@ you want her.
 
 arcolith -
 - dps attack from rear, but not completely behind. 
-- When the boss starts spinning, it cannot be damaged until it crashes into one of the four pillars in the room,
-but once you run out of pillars, you automatically fail the fight. when it hits pillar, its debuffed so hit it hard then.
+- When the boss starts spinning, it cannot be damaged until it hits one of the four pillars in the room,
+once you run out of pillars, its a wipe. When it hits pillar, its debuffed so hit it hard then.
 - dont allow the Arcolith to touch the pillars with his sword except when he is spinning.
 
 Strahd - 
 A dps has to take the sword. But before going in, everyone can use the sword to get a buff.
 Stick together! stay at side, not in centre. damage debuff like paladin sigil useful.
 During each phase, survive damage, kill 4 monsters around the arena, get the sword back, hit the boss.
-If you are 4 arrows marked move away from the party or you will kill everyone. Go to candles around edge to survive.
+If you are 4 arrows marked move away from the party or you will kill everyone. Go to candles around edge
+to survive.
 Red flames indicate where big aoes will strike. They hurt a lot. 
 
-kidnap phase - one down below, stay alive. There are ghouls. Do not hurt them, run away. Hide behind a pillar, 
-then another. rest of players above, kill doppelgangers. 
+kidnap phase - one down below, stay alive. There are ghouls. Do not hurt them, run away. Hide behind a
+pillar, then another. rest of players above, kill doppelgangers. 
 Taunts one player saying “Come then”, that player shouldn't hit him.
-Rondo of the Night: At 25% HP. everyone has to go to the center of the room, you then need to use the daily power of 
-the Sunsword, Sundrenched Aegis (button X). Wait until “Now, raise me to the heavens” before casting, to make sure
-length of the bubble is long enough, it’s recommended to activate it about two seconds after the voice prompt. 
+Rondo of the Night: At 25% HP. everyone has to go to the center of the room, you then need to use the daily
+power of the Sunsword, 'Sundrenched Aegis'. Wait until “Now, raise me to the heavens” before casting, to
+make sure length of the bubble is long enough, it’s recommended to activate it about two seconds after the
+voice prompt. 
 
 
 LOMM
 ---
 Arcturia - 
-- agree on corners before starting. Usually Tank+Heal go to the green corner. Strongest DPS goes to yellow. Place the
-other DPS at blue/purple.
-    Butterfly cloud keeps you from using powers; stay out of it.
-    Thorns hit 3 times, tank should block at least 2 of them.
-    At 80% mimic spawns in corners. After the Tank/Heal kill their 1st mimic, they should go help the blue/purple
-DPS kill their mimics. If the yellow DPS is ranged they can help blue/purple in the delay they have from
-killing their first till their second spawns. If one of the DPS just can't kill a mimic, have then run with
-the tank/heal instead. Once 6 mimics are dead the phase ends. 
-    Mimic phase repeats every 60 seconds after the first, plus at 50%.
-    After each mimic phase a non-healer will be pulled to her feet and cocooned (helpless, dropped to
-20% health). The healer has about 5 seconds to get them healed to full. Then the cocoon explodes; if the victim
-was not 100% they are permadead, as well as anyone caught in the blast.
-    Any golems that spawned during mimic phase should be tanked to keep them off the healer and ignored by the DPS.
-    After the 50% mimic phase she will scream, signalling the end of the mimic phases (unless she bugs out).
-    After 50% she will use a few abilities--screams cause random warriors to AOE the floor, avoid it.
-Eyeball will do a long stun to anyone facing her- face away until shockwave. She will still cocoon people sometimes,
-heal/avoid normally. An AOE arrow will land on someone, group up to share the damage.
+- agree on corners for mimics before starting. Usually Tank+Heal go to the green corner. Strongest DPS goes
+to yellow. Place the other DPS at blue/purple.
+- Butterfly cloud keeps you from using powers; stay out of it.
+- At 80% mimic spawns in corners. there are 2 mimics each corner, but you only need to kill 6 total to end
+phase. If one of the DPS just can't kill a mimic, have then run with the tank/heal instead. 
+- Mimic phase repeats every 60 seconds after the first, plus at 50%.
+- After each mimic phase a non-healer will be pulled to her feet and cocooned. The healer has about 5 seconds
+to get them healed to full. Then the cocoon explodes; if the victim was not 100% they are permadead, as well
+as anyone caught in the blast.
+- Any golems that spawned during mimic phase should be tanked to keep them off the healer and ignored by the DPS.
+- After the 50% mimic phase she will scream, signalling the end of the mimic phases (unless she bugs out).
+- Eyeball will do a long stun to anyone facing her- face away until shockwave.
+- below 50% She will still cocoon people sometimes, heal/avoid normally.
+- An AOE arrow will land on someone, group up to share the damage.
 
 Bore Worm -
-    For the first 10% or so, just kill the worm. The worm attacks random targets regardless of aggro.
-    When the worm spins you can block/dodge it. If you stand too far away the worm will knock you towards it.
-    At around 90% the worm will sink into the ground and cause shifting sands. If you get pulled into the
+- For the first 10% or so, just kill the worm. The worm attacks random targets regardless of aggro.
+- When the worm spins you can block/dodge it. If you stand too far away the worm will knock you towards it.
+At around 90% the worm will sink into the ground and cause shifting sands. If you get pulled into the
 center you will perma-die.
-    Boulders will spawn near each player. single hit to destroy, so use fast/dash at-wills to kill them. Every
+- Boulders will spawn near each player. single hit to destroy, so use fast/dash at-wills to kill them. Every
 boulder that reaches the center makes the coming charge phase last longer.
-    After the sands stop everyone must gather at the stairs and cluster around the player with arrows on them
-to share the AOE hit. Just stand still while the healer keeps you alive, don't try to avoid the red AOE that
-knocks you down, stay clustered.
-    you can also run this with tank alone taking all the aggro, if healer is strong enough (more common now).
-    The healer usually stands outside the red AOE and heals the group, unless they get arrows on themselves.
-If someone does die, the only way to rez them is for one person without arrows to rez them while the person
-with the arrows moves away with the other two players, otherwise the knockdown will interrupt you.
-    When the worm sinks back into the ground, the charge phase is over, and you can resume killing the worm.
+- After the sands stop everyone must gather (usually at the stairs) and cluster around the player with arrows
+on them to share the AOE hit. If the tank has target, eveyone else moves away and healer/tank can focus together. 
+- if dps targetted, stay still or get to tank. dont just run, you cant dodge.
+- The healer usually stands outside the red AOE and heals the group, unless they get arrows on themselves.
+- If someone dies, person without arrows to rez them,  while the person with the arrows moves away, otherwise
+the knockdown will interrupt you.
+- when not targetted, dps should dodge to avoid red. it hurts,and healer will be busy...
+When the worm sinks back into the ground, the charge phase is over, and you can resume killing the worm.
 Around 40% health the worm will sink down and start another shifting sands.
-    Kill boulders without getting pulled into the center again. The tank should try to aggro as many golems
-as they can now. After the sands stop shifting it's shock phase again).
-    The tank should try to keep the golems aggro, and if needed wedge themselves into the corner of the stairs
+- Kill boulders without getting pulled into the center again. The tank should try to aggro as many golems
+as they. After the sands stop shifting it's shock phase again.
+- The tank should try to keep the golems aggro, and if needed wedge themselves into the corner of the stairs
 so you don't get knocked around like crazy.  dps kill golems as soon as poss.
-    After the phase is over--resume killing the worm--do not kill any left the golems. When the worm twirls
-it will kill any golems nearby, making the worm take more damage. More importantly, if the worm twirls twice
-without killing a golem, you will get a new boulder phase with more golems. (But if your damage is good
-enough, you can kill the golems and kill the worm before it triggers another boulder phase.)
+After 2nd shock phase, resume killing the worm
+- do not kill any left the golems. When the worm twirls it will kill any golems nearby, making the worm
+take more damage. More importantly, if the worm twirls twice without killing a golem, you will get a new
+boulder phase with more golems. (But if your damage is good enough, you can kill the golems and kill the worm
+before it triggers another boulder phase.)
 
 Trobriand -
     There are three rings around the area. As Trobriand is injured, the rings start electrifying. If a scaladar
