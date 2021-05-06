@@ -2,10 +2,11 @@
 
 text and help for Neverwinter dungeons
 
-this version has 2 files, that gives you short text snippets that you can paste into chat during a dungeon, so everyone knows what they're doing!
+The general_notes.txt file has short notes for beginners on most dungeons and trials. If it's not mentioned there, basically follow the group and kill things!
 
-I've also added a file giving basic instructions for more complex dungeons (LOMM etc), just so you have an idea what to do if you've not run them before. Acknowledgements to anybody who's notes I've copied! (mostly from reddit)
+The other 2 files are for more experienced players, to give you short text snippets that you can paste into chat during a dungeon, so everyone else knows what they're doing (if they read chat...)
 
+Acknowledgements to anybody who's notes I've copied! (mostly from reddit)
 
 ## [Trials](https://github.com/morvan68/NWpasta/blob/master/Trials%20Pasta.md)
 
